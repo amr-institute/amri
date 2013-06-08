@@ -1,4 +1,4 @@
 amri
 ====
 
-advanced manufacturing research institute
+advanced manufacturing research institute (amri)
