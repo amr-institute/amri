@@ -7,4 +7,9 @@ image:
 ---  
   # Introducing the Advanced Manufacturing Research Institute
   
+  Founded in 2013, ....
+  
+  ## About AMRI
+  
+
   
